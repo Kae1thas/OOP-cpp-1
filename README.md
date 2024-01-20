@@ -1,4 +1,4 @@
-# Labwork1 
+# Labwork 1 
 
 Objective of the work: to study basic concepts (classes, subclasses, and methods). Implement fundamental principles of object-oriented programming.
 
